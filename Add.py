@@ -1,0 +1,7 @@
+print("Welcome to Addition Program by Ayaan Ansari")
+print("Enter your first number")
+var1=input()
+print("Enter your second number")
+var2=input()
+add=int(var1)+int(var2)
+print("The sum is", add)
